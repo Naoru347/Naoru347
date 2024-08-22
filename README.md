@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naoru347
+- 👋 Hi, I’m Joshua (Jay) M. Paiz
 - 👀 I’m interested in ... learning to code, applied linguistics (natural language processing), textile arts.
 - 🌱 I’m currently learning ... Java, C, Python, R, MySQL, Applied Linguistics applications in AI & Software Development
 - 💞️ I’m looking to collaborate on ... Nothing yet. I am a potato coder. Too new to help you right now.
