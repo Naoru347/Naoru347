@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua (Jay) M. Paiz</h1>
+<h1 align="center">Hi 👋, I'm Joshua M. Paiz</h1>
 <h3 align="center">A professional applied linguist and teacher educator and masters student in applied computer science.</h3>
 
 - 🔭 I’m currently working on **a mobile education platform for training international teaching assistants (ITAs), targeting linguistic and communicative compotencies.**
