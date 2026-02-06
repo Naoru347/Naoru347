@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, Python, PC Building, and Star Trek/Star Wars.**
 
-- 📫 How to reach me: **[Insert your active email address here]**
+- 📫 How to reach me: jpaiz@frederick.edu
 
 - 📄 Know about my experiences: [https://www.academia.edu/114264691/CV_Paiz](https://www.academia.edu/114264691/CV_Paiz)
 
